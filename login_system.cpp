@@ -1,5 +1,4 @@
 //Login System avec Registration + File Storing
-//inspo from hazardedit 
 //By kalliak12 30/3/23
 
 
